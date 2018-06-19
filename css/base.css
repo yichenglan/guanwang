@@ -1,0 +1,72 @@
+/*导航栏样式*/
+.navbar{
+			/*border: 1px solid red;*/
+
+			height: 120px;
+			position: absolute;
+			background: rgba(255,255,255,0.5);
+			border-bottom: 1px solid #337ab7a1; 
+		}
+/*导航栏logo*/
+.navbar-brand{
+			margin:0 ;
+			padding:0;
+			margin-top: 5px;
+}
+.navbar-nav{
+	margin: 40px;
+	/*position: absolute;*/
+	margin-left: 10px;
+/*	border: 2px solid blue;*/
+	width:98%;
+	height: 57px;
+}
+/*.navbar-brand:hover{color:#ffffff;}
+#nav1{
+	position: relative;
+	top: 35px;
+	left: 55px;
+}*/
+#nav1 ul{
+	/*border:1px solid blue;*/
+}
+#nav1 ul li{
+	padding:0 15px;
+	font-size: 16px;
+}
+#nav1 ul li a:hover{
+	/*color: #414141;*/
+	/*background: transparent;*/
+	background: #ccc;
+}
+/*ul > li > a::after {
+	content: '';
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	width: 60%;
+	height: 3px;
+	background: #00428e;
+	opacity: 0;
+	transition: all .35s;
+	transform: translateY(1px) translateX(-50%);
+}
+
+ul > li > a:hover::after {
+	opacity: 1;
+	transform: translateY(-1px) translateX(-50%);
+}*/
+/*轮播图*/
+/* */
+.m{
+	margin-top: 170px;
+}
+.l img{
+	margin-left:160px; 
+}
+.ll{
+	margin-right: 160px;
+}
+.q1{
+	color:#78a7cf;
+}

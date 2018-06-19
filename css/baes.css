@@ -1,0 +1,136 @@
+/*#a1{
+    color: black;
+    font-size: 16px;
+    text-decoration:none;
+}
+.a a{
+    text-decoration:none;
+    color: black;
+    font-size: 12px;
+}
+.a a:hover{
+    color: red;
+}
+.a2{
+    margin-top: 30px;
+}
+.a{
+    border: 1px solid red;
+    width: 360px;
+}*/
+/*.a3{
+    border: 1px solid red;
+}*/
+/*.a2{
+    margin-top: 30px;
+}
+.a4 a{
+    color: #00d0ff;
+}
+.a4 a:hover{
+    color: red;
+}
+.a3 span{
+    font-size: 16px;
+}
+li ,.a5{
+    float: left;
+}
+.a5{
+    text-align: right;
+}*/
+.a2{
+    margin-top: 30px;
+}
+.dater{
+    float: right;
+    padding-right: 0px;
+}
+.gray{
+    color: #808080 !important;
+    text-decoration: none;
+    /*text-decoration: underline;*/
+}
+.a4 a{
+    color: #00d0ff;
+}
+.a4 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.a ul li a:hover{
+    text-decoration: none;
+}
+.a ul li a{
+    color: #555;
+}
+.b{
+    margin-top: 30px;
+}
+.b2{
+    margin-left: 75%;
+}
+.b2 a{
+    color: #00d0ff;
+}
+.b2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.b3 ul li a:hover{
+    text-decoration: none;
+}
+.b3 ul li a{
+    color: #555;
+}
+.b3{
+    margin-top:15px;
+}
+.c{
+    margin-top: 45px;
+}
+.c2{
+    margin-left: 75%;
+}
+.c2 a{
+    color: #00d0ff;
+}
+.c2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.c3 ul li a:hover{
+    text-decoration: none;
+}
+.c3 ul li a{
+    color: #555;
+}
+.d{
+    margin-top: 30px;
+}
+.d2{
+    margin-left: 75%;
+}
+.d2 a{
+    color: #00d0ff;
+}
+.d2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.d3 ul li a:hover{
+    text-decoration: none;
+}
+.d3 ul li a{
+    color: #555;
+}
+.e{
+    height: 120px;
+    margin-top: 30px;
+    background: #ccc;
+}
+.e1{
+    margin-left: 10%;
+   /* padding-top: 50px;*/
+}
+
